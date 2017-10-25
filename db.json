@@ -1,0 +1,10 @@
+{
+	"users": [
+		{ "id": "10", "firstName": "Guns", "age": 12, "companyId" : 11 },
+		{ "id": "12", "firstName": "Axell", "age": 22, "companyId" : 14 }
+	],
+	"companies": [
+		{ "id": 11, "name": "Pornhub", "description": "porn" },
+		{ "id": 14, "name": "Youjizz", "description": "adult" }
+	]
+}
