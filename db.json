@@ -1,10 +1,39 @@
 {
-	"users": [
-		{ "id": "10", "firstName": "Guns", "age": 12, "companyId" : 11 },
-		{ "id": "12", "firstName": "Axell", "age": 22, "companyId" : 11 }
-	],
-	"companies": [
-		{ "id": 11, "name": "Pornhub", "description": "porn" },
-		{ "id": 14, "name": "Youjizz", "description": "adult" }
-	]
+  "users": [
+    {
+      "id": "10",
+      "firstName": "Guns",
+      "age": 12,
+      "companyId": 11
+    },
+    {
+      "id": "12",
+      "firstName": "Axell",
+      "age": 22,
+      "companyId": 11
+    },
+    {
+      "firstName": "Rick",
+      "age": 30,
+      "id": "rkgD0yCa-"
+    },
+    {
+      "firstName": "Ricardo",
+      "age": 30,
+      "companyId": "14",
+      "id": "Syah0yCa-"
+    }
+  ],
+  "companies": [
+    {
+      "id": 11,
+      "name": "Pornhub",
+      "description": "porn"
+    },
+    {
+      "id": 14,
+      "name": "Youjizz",
+      "description": "adult"
+    }
+  ]
 }
